@@ -1,7 +1,7 @@
 # Overview
 
 - Instructions for Pyhack camp we hold twice in a year
-- We have pension all to ourselves
+- We usually have the pension all to ourselves.
 
 # Venue & Equipments
 
