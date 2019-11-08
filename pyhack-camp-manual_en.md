@@ -8,7 +8,7 @@
 ## Internet
 
 - The pension has B Flet's Hikari internet.
-- WiFi is available (Password to be notified at the venue)
+- WiFi is available (Password to be notified at the venue).
 
 ## Dining Room on the 1st Floor
 
